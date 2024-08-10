@@ -1,4 +1,4 @@
-name: publish
+name: Build and Publish default test repository image
 on: [ push ]
 
 env:
